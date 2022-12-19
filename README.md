@@ -10,6 +10,6 @@ Carreira Programador Front-end | MÓDULO 1 - HTML e CSS
 
 Aprenda a construir seu primeiro documento HTML 
 
-# tecnologias
+# Tecnologias
 
 HTML
