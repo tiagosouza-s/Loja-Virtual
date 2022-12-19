@@ -12,6 +12,6 @@ HTML
 
 Carreira Programador Front-end | MÓDULO 1 - HTML e CSS
 
-Exemplo - Aprenda a construir seu primeiro documento HTML 
+Aprenda a construir seu primeiro documento HTML 
 
 DevMedia
