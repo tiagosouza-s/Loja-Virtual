@@ -10,4 +10,8 @@ HTML
 
 # Curso
 
-Carreira Programador Front-end | MÓDULO 1 - HTML e CSS |DevMedia
+Carreira Programador Front-end | MÓDULO 1 - HTML e CSS
+
+2ª Missão - Aprenda a construir seu primeiro documento HTML
+
+DevMedia
